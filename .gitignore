@@ -1,0 +1,21 @@
+# Ignore venv directory
+venv/
+
+# Ignore pipenv environment
+Pipfile
+Pipfile.lock
+
+# Ignore PyCharm files
+.idea/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore any logs
+*.log
+
+# Ignore any compiled Python files
+*.pyc
+
+# Ignore macOS system files
+.DS_Store
